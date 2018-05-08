@@ -1,5 +1,5 @@
 *** Very Basic Stata and R notes ***
 
-Changing Missing Values in R 
+Changing Missing Values in Stata 
 mvdecode: change numeric, such as -9 to '.' : mv(-9)
 mvencode: change missing values to num. 
